@@ -50,16 +50,8 @@ cd travel-booking-backend
 npm install
 ```
 
-3. **Setup environment variables:**
 
-Create a `.env` file in the root:
-
-```env
-PORT=5000
-JWT_SECRET=your_strong_jwt_secret_here
-```
-
-4. **Run the server:**
+3. **Run the server:**
 
 ```bash
 npm run dev
